@@ -2,7 +2,7 @@
  * City data - the city name, state name, location designation,
  * and population est. 2017
  *
- * @author Sreevatsa Pervela
+ * @author Tanish Krishnaraj
  * @since 12/4/2023
  */
 public class City implements Comparable<City>
