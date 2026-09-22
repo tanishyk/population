@@ -5,7 +5,7 @@ import java.io.FileNotFoundException;
 /** 
  *	File utilities for reading and writing
  *	
- *	@author	Sreevatsa Pervela
+ *	@author	Tanish Krishnaraj
  *	@since	August 24, 2023
  */
 public class FileUtils {
