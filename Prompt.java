@@ -11,7 +11,7 @@ import java.io.IOException;
  *	The advantages of BufferedReader are speed, synchronization, and piping
  *	data in Linux.
  *
- *	@author	Sreevatsa Pervela
+ *	@author	Tanish Krishnaraj
  *	@since	9/7/2023
  */
 
